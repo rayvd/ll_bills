@@ -11,6 +11,9 @@
 # grep, but it was an excuse to mess with lxml and HTML scraping.  And the way
 # it's written handles multiple accounts flexibly.
 #
+# Copyright 2019 Ray Van Dolson (rayvd@bludgeon.org)
+# Licensed under the Apache Licnese, Version 2.0
+#
 
 import os
 import re
