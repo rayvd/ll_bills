@@ -14,6 +14,15 @@ A simple script to notify on balance due for City of Loma Linda utilities.  Why?
 1. Copy the config file to ll_bills.conf and modify as appropriate.  It should reside in the same directory as the script.
 2. Run the script
 
+If all goes well, you'll receive an email similar to the following:
+
+```
+Account     Name               Balance
+======================================
+999999999   A NAME             $50.00
+999999998   ANOTHER NAME        $5.00
+```
+
 I add to cron to run once every 24 hours.
 
 ## Notes
