@@ -1,0 +1,7 @@
+[general]
+username = username@domain.com
+password = password
+email_subject = Loma Linda Utiliites Bill Has a Balance
+email_from = from@domain.com
+email_to = to@domain.com
+smtp_server = localhost
