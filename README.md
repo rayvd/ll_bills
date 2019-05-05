@@ -4,6 +4,7 @@ A simple script to notify on balance due for City of Loma Linda utilities.  Why?
 ## Requirements
 
 * Python 2.7+ (we make use of a dict comprehension -- otherwise this might run fine on 2.6+)
+* *nix environment of some sort.  It might work on Windows, but I didn't test it there.  See Notes below on email server.
 * lxml
 * texttable
 * requests
