@@ -12,7 +12,7 @@
 # it's written handles multiple accounts flexibly.
 #
 # Copyright 2019 Ray Van Dolson (rayvd@bludgeon.org)
-# Licensed under the Apache Licnese, Version 2.0
+# Licensed under the Apache License, Version 2.0
 #
 
 import os
