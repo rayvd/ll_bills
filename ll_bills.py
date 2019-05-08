@@ -127,6 +127,7 @@ def main():
         msg['Subject'] = email_subject
         msg['From'] = email_from
         msg['To'] = email_to
+        msg['Importance'] = 'High'
 
         s = smtplib.SMTP(smtp_server)
         s.sendmail(email_from, [email_to], msg.as_string())
