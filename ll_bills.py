@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python2
 #
 # The City of Loma Linda doesn't do auto-pay and I'm too forgetful to log in
 # and check if I have a balance due.
